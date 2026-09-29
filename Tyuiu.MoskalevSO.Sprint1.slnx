@@ -1,8 +1,8 @@
 <Solution>
   <Folder Name="/Task0/">
-    <Project Path="Tyuiu.MoskalevSO.Sprint1.Task0.V1.Lib/Tyuiu.MoskalevSO.Sprint1.Task0.V28.Lib.csproj" />
-    <Project Path="Tyuiu.MoskalevSO.Sprint1.Task0.V1.Test/Tyuiu.MoskalevSO.Sprint1.Task0.V28.Test.csproj" />
-    <Project Path="Tyuiu.MoskalevSO.Sprint1.Task0.V1/Tyuiu.MoskalevSO.Sprint1.Task0.V28.csproj" />
+    <Project Path="Tyuiu.MoskalevSO.Sprint1.Task0.V28.Lib/Tyuiu.MoskalevSO.Sprint1.Task0.V28.Lib.csproj" />
+    <Project Path="Tyuiu.MoskalevSO.Sprint1.Task0.V28.Test/Tyuiu.MoskalevSO.Sprint1.Task0.V28.Test.csproj" />
+    <Project Path="Tyuiu.MoskalevSO.Sprint1.Task0.V28/Tyuiu.MoskalevSO.Sprint1.Task0.V28.csproj" />
   </Folder>
 </Solution>
 
