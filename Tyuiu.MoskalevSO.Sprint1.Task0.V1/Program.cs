@@ -6,8 +6,6 @@ using System.Threading.Tasks;
 
 using Tyuiu.MoskalevSO.Sprint1.Task0.V28.Lib;
 
-//ЗАДАНИЕ
-//Написать программу, которая вычисляет выражение 48/12-48/6/4 и печатает результат на экране.
 
 namespace Tyuiu.MoskalevSO.Sprint1.Task0.V28
 {

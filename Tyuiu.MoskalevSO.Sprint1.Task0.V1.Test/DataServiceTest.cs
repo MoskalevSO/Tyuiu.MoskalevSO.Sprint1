@@ -16,4 +16,4 @@ namespace Tyuiu.MoskalevSO.Sprint1.Task0.V28.Test
             Assert.AreEqual(2, res);   
         }
     }
-}
+} 
