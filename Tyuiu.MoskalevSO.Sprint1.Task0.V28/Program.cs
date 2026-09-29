@@ -39,7 +39,7 @@ namespace Tyuiu.MoskalevSO.Sprint1.Task0.V28
             
             Console.WriteLine(ds.Calculate());   
 
-            Console.ReadLine(); 
+            Console.ReadLine();  
         }
     }
 }
