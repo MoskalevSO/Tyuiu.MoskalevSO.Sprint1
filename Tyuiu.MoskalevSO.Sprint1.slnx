@@ -16,7 +16,7 @@
   </Folder>
   <Folder Name="/Task3/">
     <Project Path="Tyuiu.MoskalevSO.Sprint1.Task3.V2.Lib/Tyuiu.MoskalevSO.Sprint1.Task3.V2.Lib.csproj" Id="85a1b2ac-4e9c-401a-bb13-dea37186903d" />
-    <Project Path="Tyuiu.MoskalevSO.Sprint1.Task3.V2.Tesk/Tyuiu.MoskalevSO.Sprint1.Task3.V2.Test.csproj" Id="fcdea06a-f246-4a70-8aea-2743dd8c94ec" />
+    <Project Path="Tyuiu.MoskalevSO.Sprint1.Task3.V2.Test/Tyuiu.MoskalevSO.Sprint1.Task3.V2.Test.csproj" Id="fcdea06a-f246-4a70-8aea-2743dd8c94ec" />
     <Project Path="Tyuiu.MoskalevSO.Sprint1.Task3.V2/Tyuiu.MoskalevSO.Sprint1.Task3.V2.csproj" Id="5b287d1a-46d7-46dc-a7b7-ecfef748a1ad" />
   </Folder>
 </Solution>

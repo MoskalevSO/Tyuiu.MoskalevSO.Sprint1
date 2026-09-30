@@ -10,4 +10,4 @@ namespace Tyuiu.MoskalevSO.Sprint1.Task3.V2.Lib
             return Math.Round(res, 3);
         }
     }
-}
+} 
