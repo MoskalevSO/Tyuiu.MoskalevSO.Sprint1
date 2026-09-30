@@ -35,4 +35,4 @@ namespace Tyuiu.MoskalevSO.Sprint1.Task4.V12
             Console.ReadKey();
         }
     }
-}
+} 
