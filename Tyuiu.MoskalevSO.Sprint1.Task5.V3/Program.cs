@@ -1,9 +1,7 @@
 ﻿using System;
-using Tyuiu.MoskalevSO.Sprint1.Task4.V12.Lib;
+using Tyuiu.MoskalevSO.Sprint1.Task5.V3.Lib;
 
-
-
-namespace Tyuiu.MoskalevSO.Sprint1.Task4.V12
+namespace Tyuiu.MoskalevSO.Sprint1.Task5.V3
 {
     class Program
     {
@@ -11,25 +9,22 @@ namespace Tyuiu.MoskalevSO.Sprint1.Task4.V12
         {
             DataService ds = new DataService();
 
-
             Console.WriteLine("****************************************************************************");
             Console.WriteLine("* ИСХОДНЫЕ ДАННЫЕ:                                                         *");
             Console.WriteLine("****************************************************************************");
 
-            Console.Write("Введите значение x: ");
-            double x = Convert.ToDouble(Console.ReadLine());
-
-            Console.Write("Введите значение y: ");
-            double y = Convert.ToDouble(Console.ReadLine());
+            Console.Write("Введите положительное целое число k: ");
+            int k = Convert.ToInt32(Console.ReadLine());
 
             Console.WriteLine("****************************************************************************");
             Console.WriteLine("* РЕЗУЛЬТАТ:                                                               *");
             Console.WriteLine("****************************************************************************");
 
-            double res = ds.Calculate(x, y);
-            Console.WriteLine("Результат = " + res);
+            int res = ds.Calculate(k);
+
+            Console.WriteLine("Третья цифра с конца = " + res);
 
             Console.ReadKey();
         }
     }
-} 
+}
